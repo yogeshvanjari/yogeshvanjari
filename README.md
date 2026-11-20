@@ -105,13 +105,28 @@ A full-stack contact management application developed using React.js, Node.js, E
 
 ### 6. ShopNest – E-commerce Application
 
-An e-commerce application featuring online payment integration using Razorpay and cloud image management using Cloudinary.
+A modern e-commerce web application designed to provide a seamless online shopping experience with product browsing, shopping cart functionality, and payment integration.
 
-### 7. PulseChat – Real-Time Chat Application
+**Key Highlights:**
+- E-commerce application with a responsive user interface.
+- Razorpay payment gateway integration.
+- Cloudinary integration for image management.
+- Full-stack application development.
+- Deployed using Vercel.
 
-A real-time messaging application developed using React.js, Node.js, and Socket.IO.
+🔗 **Live Demo:** https://shop-nest-e-commerce-six.vercel.app/
 
----
+### 7. PulseChat – Modern Real-Time Chat Application
+
+A modern real-time messaging application designed to provide seamless communication with a responsive and user-friendly interface.
+
+**Key Highlights:**
+- Real-time messaging functionality.
+- Modern and responsive chat interface.
+- Live communication experience.
+- Deployed using Vercel.
+
+🔗 **Live Demo:** https://pulse-chat-modern-real-time-chat-ap.vercel.app/login
 
 ## 🌐 Connect With Me
 
