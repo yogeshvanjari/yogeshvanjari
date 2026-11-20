@@ -31,10 +31,10 @@ using React.js, Node.js, Express.js and MongoDB.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yogeshvanjari&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🌐 Connect With Me
 
-LinkedIn: YOUR_LINK
+LinkedIn: https://linkedin.com/in/yogeshvanjari
