@@ -83,12 +83,6 @@ A web platform focused on rescue solutions and related services.
 
 🔗 **Live Website:** https://itusrescue.com/
 
-### 4. ITUS Marine Demo
-
-A demonstration environment for the ITUS Marine platform.
-
-🔗 **Live Website:** https://demo.itusmarine.in/
-
 ### 5. ContactHUB – PERN Stack
 
 A full-stack contact management application developed using React.js, Node.js, Express.js, and PostgreSQL.
